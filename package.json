@@ -1,0 +1,19 @@
+{
+  "name": "wcf",
+  "version": "0.0.1",
+  "description": "farm",
+  "main": "index.js",
+  "authors": {
+    "name": "alex tappin",
+    "email": "whitecloverfarming@gmail.com"
+  },
+  "repository": "/wcf",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
