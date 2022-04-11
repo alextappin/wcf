@@ -2,10 +2,10 @@
 
 We currently have 2 butcher dates for 2022. Please contact to reserve your chickens.
 
-## June 2022
+## Early June 2022
 
-100 remaining meat chickens
+SOLD OUT
 
-## July 2022
+## Mid July 2022
 
-100 remaining meat chickens
+80 remaining meat chickens
