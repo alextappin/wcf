@@ -1,7 +1,8 @@
 # Produce
-Soft Opening for 2022. Specializing in the following crops...
 
-## Strawberries
+Meet as us the Battle Ground Community Farmers Market starting May 2023, details to come.
+
+<!-- ## Strawberries
 
 ## Garlic
 
@@ -9,4 +10,4 @@ Soft Opening for 2022. Specializing in the following crops...
 
 ## Peppers
 
-## Sweet Potatoes
+## Sweet Potatoes -->
