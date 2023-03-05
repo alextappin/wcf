@@ -1,15 +1,16 @@
 ---
 home: true
-heroImage: 'EggCircle.jpg'
+heroImage: 'sony/greenhouse1.jpeg'
+# heroImage: 'EggCircle.jpg'
 tagline: Battle Ground, Washington
 actionText: See What We Are Doing →
 actionLink: /about/
-# features:
-# - title: Feature 1 Title
-#   details: Feature 1 Description
-# - title: Feature 2 Title
-#   details: Feature 2 Description
-# - title: Feature 3 Title
-#   details: Feature 3 Description
-# footer: Made by alex with ❤️
+features:
+- title: Farmers Market Locations
+  details: Currently serving the Battle Ground Farmers Market Every Friday from 3-7.
+- title: Pasture Raised Chicken Signup
+  details: Currently Taking Orders for our 2023 Pasture Raised, Soy Free Whole Chickens.
+- title: Raw Honey
+  details: Taste the Difference of Raw Honey. Bulk Discounts Available.
+footer: Made by alex with ❤️
 ---
