@@ -4,7 +4,7 @@ Nutritious food starts with your foods food
 ========================================
 
 ### Soy Free
-None of our chickens, pigs or any other livestock will ever be fed soy. While this is a cheap way to get protein into an animals diet, soy has negative consequences on many people today. Soy is also one of the most genetically modified crops which is sprayed with many pesticides.
+None of our chickens, pigs or any other livestock will ever be fed soy. While this is a cheap way to get protein into an animal's diet, soy has negative consequences on many people today. Soy is also one of the most genetically modified crops which is sprayed with many pesticides.
 
 
 ### Grass fed

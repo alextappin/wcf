@@ -43,29 +43,30 @@ module.exports = {
         link: '/about/',
       },
       {
+        text: 'Philosophy',
+        link: '/philosophy/'
+      },
+      {
+        text: 'Chickens',
+        link: '/chickens/'
+      },
+      {
+        text: 'Eggs',
+        link: '/eggs/'
+      },
+      {
+        text: 'Produce',
+        link: '/produce/'
+      },
+      {
+        text: 'Pigs',
+        link: '/pigs/'
+      },
+      {
         text: 'Contact',
         link: '/contact/'
       },
-      {
-        text: 'Philosophy',
-        link: '/philosophy/'
-      }
     ],
-    sidebar: {
-      '/about/': [
-        {
-          title: 'About',
-          collapsable: false,
-          children: [
-            '',
-            'chickens',
-            'eggs',
-            'produce',
-            'pigs'
-          ]
-        }
-      ],
-    }
   },
 
   /**
