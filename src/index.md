@@ -12,5 +12,4 @@ features:
   details: Currently Taking Orders for our 2023 Pasture Raised, Soy Free Whole Chickens.
 - title: Raw Honey
   details: Taste the Difference of Raw Honey. Bulk Discounts Available.
-footer: Made by alex with ❤️
 ---

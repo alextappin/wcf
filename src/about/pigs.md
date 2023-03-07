@@ -1,7 +1,5 @@
+![pigs](/sony/pigs1.jpeg "pigs")
+
 # Pigs
 
-## 2022
-SOLD OUT
-
-## 2023
-TBA
+For 2023 our Pasture Raised Pork will be Taking a Rest. Check Back for 2024.

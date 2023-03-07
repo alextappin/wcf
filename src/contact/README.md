@@ -1,7 +1,10 @@
+![landscape](/sony/chickenportrait2.jpeg "landscape")
+
+
 # Contact
 
-## Phone
-**(503)954-6587**
+### Phone
+**Alex - 503-954-6587**
 
-## Email
+### Email
 **whitecloverfarming@gmail.com**
