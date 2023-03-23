@@ -12,5 +12,5 @@ Skin On with Tenders. 4 Per Package.
 Bone In. 4 Per Package.
 #### Wings
 12 Per Package.
-#### Carcass
+#### Meaty Backs
 Great for Soups and Broths. 2 Per Package.
