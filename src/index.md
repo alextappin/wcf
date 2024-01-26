@@ -7,9 +7,9 @@ actionText: See What We Are Doing →
 actionLink: /about/
 features:
 - title: Farmers Market Locations
-  details: Currently serving the Battle Ground Farmers Market Every Friday from 3-7 Starting June 2nd in the Battle Ground Wilco Parking Lot. 
+  details: 2024 location is TBD. Contact us if you would like to pick up produce weekly from our farm.
 - title: Pasture Raised Chicken Signup
-  details: Currently Taking Orders for our 2023 Pasture Raised, Soy Free Whole Chickens.
+  details: Currently Taking Orders for our 2024 Pasture Raised, Soy Free Whole Chickens and Pork
 - title: Raw Honey
   details: Taste the Difference of Raw Honey. Bulk Discounts Available.
 ---

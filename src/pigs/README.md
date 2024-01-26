@@ -2,4 +2,4 @@
 
 # Pigs
 
-For 2023 our Pasture Raised Pork will be Taking a Rest. Check Back for 2024.
+For 2024 our soy free Pork will be accepting sign ups. Supply is limited so please [Contact Us](/contact).

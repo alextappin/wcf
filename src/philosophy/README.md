@@ -1,6 +1,6 @@
 ![garden](/sony/garden1.jpeg "garden")
 
-Nutritious food starts with your foods food
+Nutritious food starts with your food's food
 ========================================
 
 ### Soy Free
@@ -11,4 +11,4 @@ None of our chickens, pigs or any other livestock will ever be fed soy. While th
 Here at White Clover Farm, our pasture is heavy laden with white clover, alfalfa, canary reed, timothy grass and other high protein and highly nutritious pasture. Our livestock consume nearly 20% of their diet from the grass alone. Once an area has been foraged through and mowed down by the animals, we will rotate them to a new area to graze. This helps both the animals move to new grass/bugs/worms while also fertilizing the pasture in the meantime.
 
 ### Fermented grains
-Much like people, soaking and fermenting grains is an important step for a healthy diet. Doing so makes the grains more digestible while also removing anti-nutrients from the feed.
+Much like the diet of people, soaking and fermenting grains is an important step for a healthy diet. Doing so makes the grains more digestible while also removing anti-nutrients from the feed.
