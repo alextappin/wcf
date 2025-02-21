@@ -11,7 +11,8 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "deploy": "firebase deploy"
+    "deploy": "firebase deploy",
+    "reauth": "firebase login --reauth"
   },
   "license": "MIT",
   "devDependencies": {
