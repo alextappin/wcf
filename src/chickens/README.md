@@ -1,11 +1,11 @@
 ![chicken](/sony/food1.jpeg "chicken")
 
 # Chickens
-Our First Farm Pickup for our Soy Free Corn Free Whole Chickens will be July, 2024. [Contact Us](/contact) if you would like to be added to our list.
+Our First Farm Pickup for our Soy Free Corn Free Whole Chickens will be July, 2025. [Contact Us](/contact) if you would like to be added to our list.
 
 ### Whole Birds
 Bagged, Whole Chickens. Average of 4 to 6 pounds.
-# Due to our Processor Shutting down operations for 2024, the following will not be offered for 2024.
+# Due to our Processor Shutting down operations for 2025, the following will not be offered for 2025.
 #
 #### Breasts
 Skin On with Tenders. 4 Per Package.

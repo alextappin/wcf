@@ -2,4 +2,4 @@
 
 # Pigs
 
-For 2024, we will be accepting sign-ups for our Soy Free Pork. Supply is limited so please [Contact Us](/contact).
+For 2025, we are not going to offer our soy free pork. [Contact Us](/contact).
